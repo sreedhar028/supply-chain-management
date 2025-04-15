@@ -60,6 +60,65 @@
   • Logistics performance
   • Cosmetics manufacturing process
 
+ # Geographic Distribution
+# The left panel displays a map of India showing the "Count of Product type by Location and Product type":
+
+Product distribution is visualized across major Indian cities including Delhi, Mumbai, Kolkata, Bangalore, Chennai, and others
+
+Different colored bubbles represent three product categories: cosmetics, haircare, and skincare
+
+The largest concentrations appear to be in metropolitan areas of Delhi, Mumbai, Kolkata, and Chennai
+
+# Performance Metrics
+# The central gauge chart shows performance metrics:
+
+Average defect rate: 2.28%
+
+Scale ranges from 0.00 to 4.55%
+
+The yellow segment indicates a moderate performance level
+
+# Shipping Costs Analysis
+The "Sum of Shipping costs by Product type and Location" waterfall chart shows:
+
+Shipping cost variations by product type and location
+
+Key locations featured: Delhi, Mumbai, Chennai, Bangalore, and Kolkata
+
+Green bars indicate cost decreases, red bars indicate increases
+
+# Notable figures include:
+
+201 for haircare in an undetermined location
+
+196 for skincare in an undetermined location
+
+158 for cosmetics in an undetermined location
+
+Several cost reductions are visible (-7, -7, -13, -18, -16, -41)
+
+# Transportation and Route Analysis
+# The right panel shows "Count of Customer demographics and First Supplier name by Transportation modes and Routes":
+
+Transportation modes include Road, Rail, Air, and Sea
+
+Routes are coded (e.g., Route A 14, Route B 13, Route C 8)
+
+The treemap visualization shows distribution across these dimensions
+
+Road transportation appears to have high usage with Route B 13 and Route A 11
+
+Rail shows significant usage with Route A 14 and Route B 11
+
+# Interactive Elements
+# The dashboard includes:
+
+Dropdown filters for Routes and Inspection results
+
+Filter/search options in various charts
+
+Potential for interactive exploration of the data
+
 ##  Strategic Recommendations
 **Title: Key Recommendations & Next Steps**
 
